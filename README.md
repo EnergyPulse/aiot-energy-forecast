@@ -28,10 +28,15 @@ AI workloads are rapidly shifting to the network edge — with over 2 billion ed
 ##  Features
 
 ✅ Analytical models: exponential + logistic growth
+
 ✅ Dual modeling: device-level vs workload-level energy forecasting
+
 ✅ Sensitivity analysis for growth rate and efficiency
+
 ✅ Parameterized simulation inputs for 2025 AIoT baseline
+
 ✅ Agent-based modeling engine with customizable dynamics
+
 
 
 
