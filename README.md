@@ -43,7 +43,7 @@ AI workloads are rapidly shifting to the network edge — with over 2 billion ed
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/aiot-energy-forecasting.git
+git clone https://github.com/EnergyPulse/aiot-energy-forecast.git
 cd aiot-energy-forecasting
 pip install -r requirements.txt
 ```
